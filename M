@@ -1,2 +1,280 @@
-#EXTINF:0, 4серия 
-https://ok51-2.vkuser.net/expires/1737286282871/srcIp/94.41.132.72/pr/21/srcAg/CHROME_ANDROID/ms/84.39.249.131/type/5/sig/PFFz2nJKR-s/ct/8/urls/45.136.21.11%3B45.136.22.8/clientType/0/zs/64/id/7763709135596/video/
+#EXTM3U
+#EXTINF:-1,Первый 
+http://flu.ttk.mx:90/Pervyi_kanal/mono.m3u8?token=hs06e
+#EXTINF:-1,Прервый HD
+http://flu.ttk.mx:90/Pervy_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Россия-1
+http://flu.ttk.mx:90/Russia-1/mono.m3u8?token=hs06e
+#EXTINF:-1,Россия 1 HD
+http://flu.ttk.mx:90/Russia_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Матч ТВ
+http://flu.ttk.mx:90/MatchTV/mono.m3u8?token=hs06e
+#EXTINF:-1,Матч HD
+http://flu.ttk.mx:90/Match_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,НТВ
+http://flu.ttk.mx:90/NTV/mono.m3u8?token=hs06e
+#EXTINF:-1,HTB HD
+http://flu.ttk.mx:90/NTV_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Пятый канал
+http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
+#EXTINF:-1,Россия Культура
+http://flu.ttk.mx:90/Kultura/mono.m3u8?token=hs06e
+#EXTINF:-1,Россия 24
+http://flu.ttk.mx:90/Rossiya24/mono.m3u8?token=hs06e
+#EXTINF:-1,Карусель
+http://flu.ttk.mx:90/Karusel/mono.m3u8?token=hs06e
+#EXTINF:-1,ОТР
+http://flu.ttk.mx:90/OTR/mono.m3u8?token=hs06e
+#EXTINF:-1,ТВ Центр
+http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e
+#EXTINF:-1,Рен-ТВ
+http://flu.ttk.mx:90/REN_TV/mono.m3u8?token=hs06e
+#EXTINF:-1,Спас
+http://flu.ttk.mx:90/Spas/mono.m3u8?token=hs06e
+#EXTINF:-1,СТС
+http://flu.ttk.mx:90/STS/mono.m3u8?token=hs06e
+#EXTINF:-1,Домашний
+http://flu.ttk.mx:90/Domashni/mono.m3u8?token=hs06e
+#EXTINF:-1,ТВ-3
+http://flu.ttk.mx:90/TV_3/mono.m3u8?token=hs06e
+#EXTINF:-1,Пятница
+http://flu.ttk.mx:90/Pyatnica/mono.m3u8?token=hs06e
+#EXTINF:-1,Звезда
+http://flu.ttk.mx:90/Zvezda/mono.m3u8?token=hs06e
+#EXTINF:-1,Мир
+http://flu.ttk.mx:90/Mir/mono.m3u8?token=hs06e
+#EXTINF:-1,ТНТ
+http://flu.ttk.mx:90/TNT/mono.m3u8?token=hs06e
+#EXTINF:-1,ТНТ HD
+http://flu.ttk.mx:90/TNT_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Муз-ТВ
+http://flu.ttk.mx:90/Muz-TV/mono.m3u8?token=hs06e
+#EXTINF:-1,Мульт
+http://flu.ttk.mx:90/Mult/mono.m3u8?token=hs06e
+#EXTINF:-1,Мульт HD
+http://flu.ttk.mx:90/Tlum_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Уникум 
+http://flu.ttk.mx:90/Detskiy/mono.m3u8?token=hs06e
+#EXTINF:-1,Мульт и музыка
+http://flu.ttk.mx:90/Mult_i_muzyka/mono.m3u8?token=hs06e
+#EXTINF:-1,Ani
+http://flu.ttk.mx:90/Ani/mono.m3u8?token=hs06e
+#EXTINF:-1,Детский мир
+http://flu.ttk.mx:90/Detsky_mir/mono.m3u8?token=hs06e
+#EXTINF:-1,Kanal Disney
+http://flu.ttk.mx:90/Disney/mono.m3u8?token=hs06e
+#EXTINF:-1,O!
+http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
+#EXTINF:-1,Русский иллюзион
+http://flu.ttk.mx:90/Russkiy_illuzion/mono.m3u8?token=hs06e
+#EXTINF:-1,Иллюзион+
+http://flu.ttk.mx:90/Illuzion+/mono.m3u8?token=hs06e
+#EXTINF:-1,Еврокино
+http://flu.ttk.mx:90/Evrokino/mono.m3u8?token=hs06e
+#EXTINF:-1,Дом кино Премиум HD
+http://flu.ttk.mx:90/Dom_kino_premium/mono.m3u8?token=hs06e
+#EXTINF:-1,Русский роман HD
+http://flu.ttk.mx:90/Russki_roman_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Русский роман
+http://flu.ttk.mx:90/Russkiy_roman/mono.m3u8?token=hs06e
+#EXTINF:-1,Русский бестселлер
+http://flu.ttk.mx:90/Russkiy_bestsellr/mono.m3u8?token=hs06e
+#EXTINF:-1,Кино ТВ
+http://flu.ttk.mx:90/Kino/mono.m3u8?token=hs06e
+#EXTINF:-1,Кино ТВ HD
+http://flu.ttk.mx:90/avl_test_3/mono.m3u8?token=hs06e
+#EXTINF:-1,Комедия
+http://flu.ttk.mx:90/Komediya/mono.m3u8?token=hs06e
+#EXTINF:-1,Русский детектив
+http://flu.ttk.mx:90/Russkiy_detektiv/mono.m3u8?token=hs06e
+#EXTINF:-1,Cinema
+http://flu.ttk.mx:90/Cinema/mono.m3u8?token=hs06e
+#EXTINF:-1,Мосфильм.. Золотая коллекция.
+http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
+#EXTINF:-1,Театр
+http://flu.ttk.mx:90/Teatr/mono.m3u8?token=hs06e
+#EXTINF:-1,TV XXI
+http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e
+#EXTINF:-1,НСТ
+http://flu.ttk.mx:90/NST/mono.m3u8?token=hs06e
+#EXTINF:-1,Коинопоказ
+http://flu.ttk.mx:90/kinopokaz/mono.m3u8?token=hs06e
+#EXTINF:-1,Дом Кино
+http://flu.ttk.mx:90/Dom_kino/mono.m3u8?token=hs06e
+#EXTINF:-1,Победа
+http://flu.ttk.mx:90/Pobeda/mono.m3u8?token=hs06e
+#EXTINF:-1,Киносемья
+http://flu.ttk.mx:90/Kinosemia/mono.m3u8?token=hs06e
+#EXTINF:-1,Кинопремьера
+http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e
+#EXTINF:-1,Кинохит
+http://flu.ttk.mx:90/kinohit/mono.m3u8?token=hs06e
+#EXTINF:-1,Киносвидание
+http://flu.ttk.mx:90/Kinosvidanie/mono.m3u8?token=hs06e
+#EXTINF:-1,Мужское Кино
+http://flu.ttk.mx:90/Muzhskoe_Kino/mono.m3u8?token=hs06e
+#EXTINF:-1,А-1
+http://flu.ttk.mx:90/A-1/mono.m3u8?token=hs06e
+#EXTINF:-1,А-2
+http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e
+#EXTINF:-1,Восток ТВ
+http://flu.ttk.mx:90/TMV/mono.m3u8?token=hs06e
+#EXTINF:-1,ТНТ Музыка
+http://flu.ttk.mx:90/TNT_Music/mono.m3u8?token=hs06e
+#EXTINF:-1,RU.TV
+http://flu.ttk.mx:90/RU.TV/mono.m3u8?token=hs06e
+#EXTINF:-1,Музыка первого
+http://flu.ttk.mx:90/Muzyka_pervogo/mono.m3u8?token=hs06e
+#EXTINF:-1,Шансон ТВ
+http://flu.ttk.mx:90/Shanson/mono.m3u8?token=hs06e
+#EXTINF:-1,O2TV
+http://flu.ttk.mx:90/O2TV/mono.m3u8?token=hs06e
+#EXTINF:-1,RT
+http://flu.ttk.mx:90/RT/mono.m3u8?token=hs06e
+#EXTINF:-1,Крым24 HD
+http://flu.ttk.mx:90/Krym24HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Зогородная Жизнь
+http://flu.ttk.mx:90/zagorodnay_zhizn/mono.m3u8?token=hs06e
+#EXTINF:-1,Белрос
+http://flu.ttk.mx:90/Belros/mono.m3u8?token=hs06e
+#EXTINF:-1,Точка Отрыва
+http://flu.ttk.mx:90/tochka_otryva/mono.m3u8?token=hs06e
+#EXTINF:-1,Ратник
+http://flu.ttk.mx:90/Ratnik/mono.m3u8?token=hs06e
+#EXTINF:-1,Миллет
+http://flu.ttk.mx:90/Millet/mono.m3u8?token=hs06e
+#EXTINF:-1,RBC
+http://flu.ttk.mx:90/RBC/mono.m3u8?token=hs06e
+#EXTINF:-1,Мир24
+http://flu.ttk.mx:90/Mir24/mono.m3u8?token=hs06e
+#EXTINF:-1,Крым
+http://flu.ttk.mx:90/Krym/mono.m3u8?token=hs06e
+#EXTINF:-1,Шоппинг Лайф
+http://flu.ttk.mx:90/Shopping_Life/mono.m3u8?token=hs06e
+#EXTINF:-1,Сарафан
+http://flu.ttk.mx:90/Sarafan/mono.m3u8?token=hs06e
+#EXTINF:-1,История
+http://flu.ttk.mx:90/Istoruya/mono.m3u8?token=hs06e
+#EXTINF:-1,Мама
+http://flu.ttk.mx:90/Mama/mono.m3u8?token=hs06e
+#EXTINF:-1,Техно 24
+http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
+#EXTINF:-1,Доктор
+http://flu.ttk.mx:90/Doktor/mono.m3u8?token=hs06e
+#EXTINF:-1,Интер+
+http://flu.ttk.mx:90/Inter+/mono.m3u8?token=hs06e
+#EXTINF:-1,Живая Природа HD
+http://flu.ttk.mx:90/Zhivaya_Priroda_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Тайны Галактики
+http://flu.ttk.mx:90/Galaxy/mono.m3u8?token=hs06e
+#EXTINF:-1,Ю
+http://flu.ttk.mx:90/U/mono.m3u8?token=hs06e
+#EXTINF:-1,Бобёр
+http://flu.ttk.mx:90/Bober/mono.m3u8?token=hs06e
+#EXTINF:-1,Время
+http://flu.ttk.mx:90/Vremya/mono.m3u8?token=hs06e
+#EXTINF:-1,Телекафе
+http://flu.ttk.mx:90/Telekafe/mono.m3u8?token=hs06e
+#EXTINF:-1,Поехали!
+http://flu.ttk.mx:90/Poehali/mono.m3u8?token=hs06e
+#EXTINF:-1,Беларусь 24
+http://flu.ttk.mx:90/Belarus24/mono.m3u8?token=hs06e
+#EXTINF:-1,Москва Доверие
+http://flu.ttk.mx:90/Doverie/mono.m3u8?token=hs06e
+#EXTINF:-1,Москва-24
+http://flu.ttk.mx:90/Moskva_24/mono.m3u8?token=hs06e
+#EXTINF:-1,СТС Love
+http://flu.ttk.mx:90/STS_Love/mono.m3u8?token=hs06e
+#EXTINF:-1,TNT4
+http://flu.ttk.mx:90/TNT4/mono.m3u8?token=hs06e
+#EXTINF:-1,2х2
+http://flu.ttk.mx:90/2x2/mono.m3u8?token=hs06e
+#EXTINF:-1,RT Doc HD
+http://flu.ttk.mx:90/RT_doc_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,ЛДПР
+http://flu.ttk.mx:90/LDPR/mono.m3u8?token=hs06e
+#EXTINF:-1,Красная линия
+http://flu.ttk.mx:90/Krasnaya_Liniya/mono.m3u8?token=hs06e
+#EXTINF:-1,Авто 24
+http://flu.ttk.mx:90/Avto24/mono.m3u8?token=hs06e
+#EXTINF:-1,Супер
+http://flu.ttk.mx:90/Super/mono.m3u8?token=hs06e
+#EXTINF:-1,Zoo 
+http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
+#EXTINF:-1,Че!
+http://flu.ttk.mx:90/Che!/mono.m3u8?token=hs06e
+#EXTINF:-1,Ретро 
+http://flu.ttk.mx:90/Retro/mono.m3u8?token=hs06e
+#EXTINF:-1,Психология 
+http://flu.ttk.mx:90/Psihologiya21/mono.m3u8?token=hs06e
+#EXTINF:-1,Охота и рыбалка
+http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
+#EXTINF:-1,Домашние животные
+http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e
+#EXTINF:-1,Здоровое ТВ
+http://flu.ttk.mx:90/Zdorovoe_tv/mono.m3u8?token=hs06e
+#EXTINF:-1,Усадьба
+http://flu.ttk.mx:90/Usadba/mono.m3u8?token=hs06e
+#EXTINF:-1,Вопросы и ответы
+http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
+#EXTINF:-1,Драйв
+http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
+#EXTINF:-1,Моя планета
+http://flu.ttk.mx:90/Moya_planeta/mono.m3u8?token=hs06e
+#EXTINF:-1,Моя планета HD
+http://flu.ttk.mx:90/Planeta_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Телеканал 360 HD
+http://flu.ttk.mx:90/360_HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Большая Азия
+http://flu.ttk.mx:90/Big_asia/mono.m3u8?token=hs06e
+#EXTINF:-1,Живая планета
+http://flu.ttk.mx:90/Zhivaya_planeta/mono.m3u8?token=hs06e
+#EXTINF:-1,Точка ТВ
+http://flu.ttk.mx:90/Tochka/mono.m3u8?token=hs06e
+#EXTINF:-1,Тномер
+http://flu.ttk.mx:90/Tnomer/mono.m3u8?token=hs06e
+#EXTINF:-1,Наука
+http://flu.ttk.mx:90/Nauka/mono.m3u8?token=hs06e
+#EXTINF:-1,Матч! Боец
+http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
+#EXTINF:-1,Матч Футбол 1
+http://flu.ttk.mx:90/Football_1/mono.m3u8?token=hs06e
+#EXTINF:-1,Матч Футбол 2
+http://flu.ttk.mx:90/football_2/mono.m3u8?token=hs06e
+#EXTINF:-1,Матч Футбол 3
+http://flu.ttk.mx:90/football_3/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
+#EXTINF:-1,Russian Extreme TV
+http://flu.ttk.mx:90/Russkij_Extrim/mono.m3u8?token=hs06e
+#EXTINF:-1,Футбол
+http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
+#EXTINF:-1,Русский Экстрим
+http://flu.ttk.mx:90/Russkij_Extrim/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ Игра
+http://flu.ttk.mx:90/Igra/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ Арена
+http://flu.ttk.mx:90/Arena/mono.m3u8?token=hs06e
+#EXTINF:-1,МАТЧ Страна
+http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
+#EXTINF:-1,Da Vinci
+http://flu.ttk.mx:90/DaVinci/mono.m3u8?token=hs06e
+#EXTINF:-1,Viasat Sport
+http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8?token=hs06e
+#EXTINF:-1,TV1000
+http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e
+#EXTINF:-1,Viasat History
+http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
+#EXTINF:-1,TV1000 Русское Кино
+http://flu.ttk.mx:90/TV1000_RUKINO/mono.m3u8?token=hs06e
+#EXTINF:-1,Viasat Explore
+http://flu.ttk.mx:90/Explorer/mono.m3u8?token=hs06e
+#EXTINF:-1,TV1000 Action
+http://flu.ttk.mx:90/TV1000_Action/mono.m3u8?token=hs06e
+#EXTINF:-1,Visat Nature
+http://flu.ttk.mx:90/Nature/mono.m3u8?token=hs06e
+
