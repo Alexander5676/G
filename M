@@ -1,5 +1,4 @@
 #EXTM3U
 #EXTINF:-1,Дом кино
-https://tvcdnpotok.com/m1-W11ll76rPXOo7t4edbw/186/1743276087/index.m3u8
-
+https://tvcdnpotok.com/KgMGp_6Elx43JV-hgaJHgw/186/1743279601/index.m3u8
 
