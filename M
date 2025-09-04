@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,MM Сваты
-https://vsd179.okcdn.ru/hls/8043561290358.m3u8/sig/4y2bwAvOIxM/expires/1757003301791/srcIp/95.105.127.244/urls/185.226.53.63/clientType/1/srcAg/CHROME_ANDROID/mid/9385006997110/8043561290358_high/index.m3u8?p
+https://vsd179.okcdn.ru/hls/8043561290358.m3u8/sig/Hcmg-_ew-ug/expires/1757092745612/srcIp/94.41.185.40/urls/45.136.22.64/clientType/1/srcAg/CHROME_ANDROID/mid/9385006997110/8043561290358_high/index.m3u8?p
